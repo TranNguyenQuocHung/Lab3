@@ -8,7 +8,7 @@ if (!isset($_SESSION['username'])) {
 ?>
 <html>
 <head>
-	<title>trang chủ</title>
+	<title>trang chủ 1999 Vlog </title>
 	<meta charset="utf-8">
 </head>
 <body>
