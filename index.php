@@ -13,5 +13,7 @@ if (!isset($_SESSION['username'])) {
 </head>
 <body>
 	Chúc mừng bạn có username là <?php echo $_SESSION['username'];  ?> đã đăng nhập thành công !
+
+	Chào mừng bạnnnnnnnnnnnnnnnnnnn
 </body>
 </html>
