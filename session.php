@@ -8,7 +8,7 @@ session_start();
 </head>
 <body>
 <?php
-	//Gọi file connection.php ở bài trước
+	//Gọi file connection.php ở bà1231231i trước
 	require_once("lib/connection.php");
 	// Kiểm tra nếu người dùng đã ân nút đăng nhập thì mới xử lý
 	if (isset($_POST["btn_submit"])) {
