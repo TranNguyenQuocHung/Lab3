@@ -6,7 +6,7 @@
 <body>
 	<form method="POST" action="login.php">
 	<fieldset>
-	    <legend>Đăng nhập</legend>
+	    <legend>Đăng nhập 123 </legend>
 	    	<table>
 	    		<tr>
 	    			<td>Username</td>

@@ -41,10 +41,10 @@ session_start();
 ?>
 	<form method="POST" action="login.php">
 	<fieldset>
-	    <legend>Đăng nhập</legend>
+	    <legend>Đăng nhập3243</legend>
 	    	<table>
 	    		<tr>
-	    			<td>Username</td>
+	    			<td>Username1231243</td>
 	    			<td><input type="text" name="username" size="30"></td>
 	    		</tr>
 	    		<tr>
