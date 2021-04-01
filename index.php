@@ -8,7 +8,7 @@ if (!isset($_SESSION['username'])) {
 ?>
 <html>
 <head>
-	<title>Home</title>
+	<title>Home341344</title>
 	<meta charset="utf-8">
 </head>
 <body>
